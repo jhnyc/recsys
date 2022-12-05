@@ -8,3 +8,6 @@ Algorithms that will be/have been covered:
 - Deep Factorization Machines
 - Embarrassingly Shallow Autoencoder
 - Neural Collaborative Filtering
+
+Dataset:
+- MovieLens 100K
