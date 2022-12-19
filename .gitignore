@@ -1,3 +1,4 @@
 /data
 *_test*
 *.DS_Store*
+*.ipynb_checkpoints
