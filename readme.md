@@ -19,6 +19,7 @@ Dataset:
 Resources I found very helpful:
 - <https://github.com/rixwew/pytorch-fm/tree/f74ad19771eda104e99874d19dc892e988ec53fa>
 - <https://github.com/microsoft/recommenders>
+- <https://eugeneyan.com/writing/system-design-for-discovery/>
 - <https://github.com/xue-pai/FuxiCTR>
 - <https://d2l.ai/chapter_recommender-systems/>
 - <https://paperswithcode.com/task/recommendation-systems>
